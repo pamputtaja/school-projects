@@ -1,0 +1,7 @@
+Project was interesting and a bit hard at the beginning but after getting used to 
+syntax of the HDL Designer it got easier to use the software. Some of the solutions 
+were much more simplier than we initially thought of doing them. After using state 
+machines in the exercises, the drawing of state machine diagrams became much clearer. 
+At first the hierarchial designing seemed a bit confusing but as we in the later exercises
+noticed it was a must. Overall the project was fun to do and it was nice to see it in live,
+altough we only did basic version of the game.

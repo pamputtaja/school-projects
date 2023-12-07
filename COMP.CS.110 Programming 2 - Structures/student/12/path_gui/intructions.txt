@@ -1,0 +1,59 @@
+/* Polku
+ *
+ * Nimi: Jani Koistinen
+ * Opiskelijanumero: H268666
+ * Käyttäjätunnus: koistin3
+ * E-Mail: jani.koistinen@tuni.fi
+*/
+
+Polku
+
+Ohjelma toteuttaa Polku nimisen graafisen pelin. Pelissä on tavoitteena
+saada alarivin ja yllärivin nappulat vaihdettua vastakkaisiin päätyihin
+mahdollisimman vähillä siirroilla. Siirrettävä nappi valitaan hiiren
+klikkauksella ja kohta mihin nappi liikutetaan valitaan tämän jälkeen
+hiirellä. Siirrettävän napin valinta ilmoitetaan mustilla reunuksilla napin
+ympärillä.
+
+Pelin käynnistyessä kysytään pelaajan nimi. Nimi voidaan vaihtaa pelissä myös
+'Change Player' napista. Mahdollista painaa vain kun peli on läpi tai 'Reset'
+nappia painettu.
+
+Peli aloitetaan 'Start' painikkeella. 'Reset' napilla voidaan nollata peli.
+'Close' painike poistuu pelistä
+
+Pelissä on ikkunan alareunassa statusBar widgetti, jossa näytetään tietota
+pelin tilasta.
+
+Kun käyttäjä käynnistää pelin, näytetään kulunut aika peli-ikkunan alareunassa
+statusBar widgetissä, kun peli on käynnissä, näytetään myös siirrot ja pisteet.
+
+Kun pelaaja saa kaikki pelinappulat siirrettyä vastakkaisille puolille peli
+päättyy ja alapalkissa ilmoitetaan "GAME OVER!". Uuden pelin voi taas aloittaa
+tästä tilanteesta 'Start' painikkeella
+
+Mikäli pelaaja koittaa tehdä virheellistä siirtoa se jätetään toteutumatta ja
+"siirto" jätetään huomioimatta siirtojen laskennassa.
+
+Lisäominaisuudet:
+
+    Pause - Kun käyttäjä painaa 'Pause' painiketta pysäytetään ajan kulku ja
+        "lukitaan" pelin nappulat, jotta niitä ei voida liikutella.
+        Peliä voi taas jatkaa painamalla 'Start' painiketta tai aloittaa
+        pelin alusta painamalla 'Reset'painiketta.
+
+    Pistelasku -  Pelissä saa heti alkuun 31 * 5p. 31 siirron jälkeen aletaan
+        vähentämään pisteitä, joka siirrolla. Aluksi pisteitä vähennetään -1p
+        viiden siirron ajan. Tämän jälkeen pisteitä vähennetään -2p per
+        siirto viiden kierroksen ajan. Vähennettävät pisteet kasvavat aina -5p
+        asti, tämän jälkeen vähennys pysyy aina -5p per siirto. Mikäli pisteet
+        menevät nolliin, pisteitä ei enää vähennetä.
+
+    Käyttöliittymän taustaväri vaihtuu kullan väriseksi mikäli pelaaja saa
+    pelin läpi 31:llä siirrolla ja palautuu normaaliksi kun peli aloitetaan
+    uudestaan
+
+    Pelissä on tulostaulu, johon luetaan pistees scores.sco nimisestä
+    tiedostosta. Pelaaja valitsee nimen heti pelin käynnistyessä tai
+    'Change Player' painikkeesta. Nimeä voi vaihtaa vain, kun peli on päättynyt
+    tai 'Reset' painiketta on painettu. (keskeneräinen)

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>HTML Forms</title>
+    </head>
+    <body>
+        <h1>HTML Forms</h1>
+        <h2>Hello form 1</h2>
+        <form id="form1" action="http://localhost:3000/" method="GET">
+            <input type="hidden" name="hidden" value="Greetings from form 1">
+            <input type="text" name="text">
+            <button type="submit">Send Form 1</button>
+        </form>
+        <h2>Hello form 2</h2>
+        <form id="form2" action="http://localhost:3000/" method="POST">
+            <input type="hidden" name="hidden" value="Greetings from form 2">
+            <textarea name="message" rows="15" cols="35"></textarea>
+            <button type="submit">Send Form 2</button>
+        </form>
+    </body>
+</html>

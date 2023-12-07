@@ -1,0 +1,75 @@
+DESIGN c3_direction_block
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c3_direction_block
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c3_direction_block
+VIEW symbol.sb
+GRAPHIC 118,0 14 0 
+DESIGN c3_direction_block
+VIEW symbol.sb
+GRAPHIC 123,0 15 0 
+DESIGN c3_direction_block
+VIEW symbol.sb
+GRAPHIC 128,0 16 0 
+DESIGN c3_direction_block
+VIEW symbol.sb
+GRAPHIC 133,0 17 0 
+DESIGN c3_direction_block
+VIEW symbol.sb
+GRAPHIC 138,0 18 0 
+DESIGN c3_direction_block
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+DESIGN c3_direction_block
+VIEW symbol.sb
+GRAPHIC 1,0 22 0 
+DESIGN c3_direction_block
+VIEW struct.bd
+NO_GRAPHIC 25
+DESIGN c3_direction_block
+VIEW struct.bd
+GRAPHIC 121,0 34 0 
+DESIGN c3_direction_block
+VIEW struct.bd
+NO_GRAPHIC 37
+DESIGN c3_direction_block
+VIEW struct.bd
+GRAPHIC 0,0 39 2 
+DESIGN c3_direction_block
+VIEW struct.bd
+GRAPHIC 366,0 44 0 
+DESIGN c3_direction_block
+VIEW struct.bd
+GRAPHIC 372,0 45 0 
+DESIGN c3_direction_block
+VIEW struct.bd
+NO_GRAPHIC 46
+DESIGN c3_direction_block
+VIEW struct.bd
+GRAPHIC 703,0 48 0 
+DESIGN c3_direction_block
+VIEW struct.bd
+NO_GRAPHIC 53
+DESIGN c3_direction_block
+VIEW struct.bd
+NO_GRAPHIC 54
+DESIGN c3_direction_block
+VIEW struct.bd
+GRAPHIC 237,0 56 0 
+DESIGN c3_direction_block
+VIEW struct.bd
+GRAPHIC 353,0 67 0 
+DESIGN c3_direction_block
+VIEW struct.bd
+GRAPHIC 306,0 77 0 
+DESIGN c3_direction_block
+VIEW struct.bd
+NO_GRAPHIC 80
+DESIGN c3_direction_block
+VIEW struct.bd
+GRAPHIC 703,0 84 0 
+DESIGN c3_direction_block
+VIEW struct.bd
+NO_GRAPHIC 86

@@ -1,0 +1,161 @@
+DESIGN c1_b2_decrementer
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c1_b2_decrementer
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c1_b2_decrementer
+VIEW symbol.sb
+GRAPHIC 112,0 14 0 
+DESIGN c1_b2_decrementer
+VIEW symbol.sb
+GRAPHIC 117,0 15 0 
+DESIGN c1_b2_decrementer
+VIEW symbol.sb
+GRAPHIC 1,0 18 0 
+DESIGN c1_b2_decrementer
+VIEW symbol.sb
+GRAPHIC 1,0 19 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+NO_GRAPHIC 22
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 73,0 31 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+NO_GRAPHIC 34
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 0,0 37 2 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 425,0 42 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 473,0 43 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 437,0 44 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 431,0 45 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 479,0 46 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+NO_GRAPHIC 47
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+NO_GRAPHIC 48
+LIBRARY alien_game_lib
+DESIGN c1_full_adder
+VIEW struct
+GRAPHIC 415,0 50 0 
+DESIGN c1_full_adder
+VIEW symbol.sb
+GRAPHIC 161,0 52 0 
+DESIGN c1_full_adder
+VIEW symbol.sb
+GRAPHIC 116,0 53 0 
+DESIGN c1_full_adder
+VIEW symbol.sb
+GRAPHIC 121,0 54 0 
+DESIGN c1_full_adder
+VIEW symbol.sb
+GRAPHIC 131,0 55 0 
+DESIGN c1_full_adder
+VIEW symbol.sb
+GRAPHIC 126,0 56 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 385,0 59 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 116,0 61 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 121,0 62 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 126,0 63 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 131,0 64 0 
+LIBRARY alien_game_lib
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+NO_GRAPHIC 67
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 415,0 70 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 385,0 71 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+NO_GRAPHIC 74
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 270,0 76 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 286,0 79 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 305,0 82 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+NO_GRAPHIC 85
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 415,0 87 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 427,0 89 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 433,0 90 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 225,0 91 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 475,0 92 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 243,0 93 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 443,0 95 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 475,0 97 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 481,0 98 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 231,0 99 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 249,0 101 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 385,0 103 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 439,0 105 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 219,0 106 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 427,0 107 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+GRAPHIC 237,0 108 0 
+DESIGN c1_b2_decrementer
+VIEW struct.bd
+NO_GRAPHIC 111

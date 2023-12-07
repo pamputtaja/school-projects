@@ -1,0 +1,329 @@
+DESIGN display_controller
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 166,0 14 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 1054,0 15 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 1069,0 16 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 176,0 17 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 196,0 18 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 1101,0 19 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 1106,0 20 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 136,0 21 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 151,0 22 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 141,0 23 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 156,0 24 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 146,0 25 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 161,0 26 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 259,0 27 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 1,0 30 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 1,0 31 0 
+DESIGN display_controller
+VIEW struct.bd
+NO_GRAPHIC 34
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 42,0 43 0 
+DESIGN display_controller
+VIEW struct.bd
+NO_GRAPHIC 46
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 0,0 49 2 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 926,0 54 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 946,0 55 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 952,0 56 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 964,0 57 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 968,0 58 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 970,0 59 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 942,0 60 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 954,0 61 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 930,0 62 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 936,0 63 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 938,0 64 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 956,0 65 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 958,0 66 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 966,0 67 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 960,0 68 0 
+DESIGN display_controller
+VIEW struct.bd
+NO_GRAPHIC 69
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 744,0 71 0 
+DESIGN display_controller
+VIEW struct.bd
+NO_GRAPHIC 73
+LIBRARY pre_made
+DESIGN disp_gamma
+VIEW fsm
+GRAPHIC 1920,0 75 0 
+DESIGN display_controller
+VIEW struct.bd
+NO_GRAPHIC 84
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 2132,0 86 0 
+DESIGN display_controller
+VIEW struct.bd
+NO_GRAPHIC 99
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 1886,0 101 0 
+DESIGN display_controller
+VIEW struct.bd
+NO_GRAPHIC 107
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 1974,0 109 0 
+DESIGN display_controller
+VIEW struct.bd
+NO_GRAPHIC 121
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 2012,0 123 0 
+DESIGN display_controller
+VIEW struct.bd
+NO_GRAPHIC 132
+LIBRARY pre_made
+DESIGN display_controller
+VIEW struct.bd
+NO_GRAPHIC 134
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 1920,0 137 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 2132,0 138 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 1886,0 139 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 1974,0 140 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 2012,0 141 0 
+DESIGN display_controller
+VIEW struct.bd
+NO_GRAPHIC 144
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 418,0 146 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 375,0 149 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 497,0 152 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 548,0 162 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 611,0 165 0 
+DESIGN display_controller
+VIEW struct.bd
+NO_GRAPHIC 168
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 1920,0 170 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 1164,0 172 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 1170,0 173 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 776,0 174 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 862,0 175 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 736,0 176 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 874,0 177 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 824,0 178 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 2132,0 180 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 1086,0 182 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 896,0 183 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 1094,0 184 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 902,0 185 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 806,0 186 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 748,0 187 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 908,0 188 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 762,0 189 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 782,0 190 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 848,0 191 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 770,0 192 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 1886,0 194 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 830,0 196 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 812,0 197 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 884,0 198 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 856,0 199 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 1974,0 201 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 1276,0 203 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 848,0 204 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 1282,0 205 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 756,0 206 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 836,0 207 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 788,0 208 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 890,0 209 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 868,0 210 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 748,0 211 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 762,0 212 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 2012,0 214 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 842,0 216 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 1214,0 217 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 2028,0 218 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 818,0 219 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 718,0 220 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 800,0 221 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 794,0 222 0 
+DESIGN display_controller
+VIEW struct.bd
+GRAPHIC 744,0 226 0 
+DESIGN display_controller
+VIEW struct.bd
+NO_GRAPHIC 228
